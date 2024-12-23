@@ -1,0 +1,17 @@
+Supplementary Information Differential Expression Analyses
+
+Supplementary Table A: Summary statistics of raw and preprocessed RNA-seq reads, alignment percentage of preprocessed reads to the reference transcriptome and percentage of reads of pseudoalignment
+
+Supplementary Table B: Differential Gene Expression results for all comparisons of control samples vs experiment samples for S. mediterranea including logFC, logCPM, p-value and FDR corrected p-value as long as the expression of each sample per gene
+
+Supplementary Table C: Differential Gene Expression results for all comparisons of control samples vs experiment samples for O. nungara including logFC, logCPM, p-value and FDR corrected p-value as long as the expression of each sample per gene
+
+Supplementary Data A: Density plots of log2FPKM for all samples of S. mediterranea and O. nungara
+
+Supplementary Data B: Volcano plots for all comparisons of S. mediterranea. Red dots indicate the statistically significant genes
+
+Supplementary Data C: Volcano plots for all comparisons of O. nungara. Red dots indicate the statistically significant genes
+
+Supplementary Data D: Heatmaps of Differentially Expressed Genes for all comparisons of S. mediterranea. Rows indicate genes and columns indicate sample information. Yellow indicates upregulation and purple downregulation.
+
+Supplementary Data E: Heatmaps of Differentially Expressed Genes for all comparisons of O. nungara. Rows indicate genes and columns indicate sample information. Yellow indicates upregulation and purple downregulation.
