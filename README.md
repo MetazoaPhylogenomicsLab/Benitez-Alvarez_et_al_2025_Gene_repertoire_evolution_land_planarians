@@ -8,6 +8,6 @@ This repository contains the scripts and files (inputs,  intermediates, and outp
 
 **2_Proteomics:**
 
-**3_DGE_stats_**
+**3_DGE_stats:**
 
-**4_Supplementary_Material:** Supplemntary material supporting results  
+**4_Supplementary_Material:** This directory contains supplemntary material supporting results  
