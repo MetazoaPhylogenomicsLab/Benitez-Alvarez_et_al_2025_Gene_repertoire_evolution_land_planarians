@@ -6,8 +6,8 @@ This repository contains the scripts and files (inputs, intermediates, and outpu
 
 **1_OMA:** This directory contains the files correspondent to the longest isoforms belonging to S. mediterranea (SMED3) and Obama nungara (ONUN2), data not included in matedb2. Additionally, you can find the species tree used to run the orthologs inference with OMA and the orthoxml file, output of this analysis
 
-**2_Proteomics:** Raquel add description
+**2_Proteomics:** Supporting data of proteomics analyses
 
-**3_DGE_stats:** Klara add description
+**3_DGE_stats:** Supporting data of DEG analyses
 
 **4_Supplementary_Material:** This directory contains supplemntary material supporting results  (waiting final files)
