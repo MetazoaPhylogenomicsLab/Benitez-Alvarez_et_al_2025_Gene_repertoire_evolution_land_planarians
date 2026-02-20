@@ -1,6 +1,6 @@
 # Carbonetto_Benitez-Alvarez_et_al_2026_Gene_repertoire_evolution_land_planarians
 # 1. Description:
-This repository contains files (inputs,outputs and supporting information) from Carbonetto_Benítez-Álvarez et al. 2026. Genomic exaptation and regulatory landscape shifts as key mechanisms enabling flatworm terrestrialization.
+This repository contains files (inputs,outputs and supporting information) from Carbonetto_Benítez-Álvarez et al. 2026. *Genomic exaptation and regulatory landscape shifts as key mechanisms enabling flatworm terrestrialization.*
 
 # 2. Directories in this repository
 
